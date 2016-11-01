@@ -19,6 +19,9 @@ int main(int argc, char *argv[])
 
     return a.exec();
 }
+//НИЖЕ ЭТО КОД ИЗ КНИЖКИ. ЭТО ТИПО КОД-ПОДСКАЗКА. ЧИТАТЕЛЬ ДОЛЖЕН НАПИСАТЬ ВСЕ КЛАССЫ САМ, ЦЕЛЯСЬ ПО ЭТОМУ КОДУ.
+
+
 //        #include "carddeck.h"
 //        #include <QTextStream>
 //        #include <QtGui>
